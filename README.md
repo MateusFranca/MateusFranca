@@ -1,6 +1,6 @@
 ### Olá Eu sou o Mateus F. Cunha 👋🏾
 
-- 🌱 Estudando Font-end focado em Vue.js.
+- 🌱 Estudando Front-end focado em Vue.js.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusfranca&show_icons=true&theme=dracula"/>
