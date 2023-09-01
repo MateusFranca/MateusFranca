@@ -1,8 +1,12 @@
-### Olá Eu sou o Mateus F. Cunha 👋🏾
+### Olá, eu sou o Mateus F. Cunha 👋🏾
+
+- 🌱 Estudando Font-end focado em Vue.js.
+
+![Mateus F. Cunha](https://github-readme-stats.vercel.app/api?username=mateusfranca&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfranca&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contato
 
 [![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://mateusfranca.github.io/MateusFranca.githb.io/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1mol_de_mateus/?next=%2F) [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusfrancadacunha/) [![Instagram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
-
-![Mateus F. Cunha](https://github-readme-stats.vercel.app/api?username=mateusfranca&show_icons=true&theme=dracula )
 
 ## Tecnologias que utilizo
 
